@@ -5,12 +5,15 @@ Support for converting XML to NSDictionary in AFNetworking
 
 ## How To Get Started
 
-$ cd /path/to/MyApplication
-# If this is a new project, initialize git...
-$ git init
-$ git submodule add git@github.com:shritekale/AFNetworkingXMLDictionary.git
-$ git submodule update --init --recursive
-# Open your Project, go to Add Files and add class files under AFNetworking/AFNetworking and AFNetworking/AFNetworkingXMLDictionary to your project
+	$ cd /path/to/MyApplication
+
+If this is a new project, initialize git...
+
+	$ git init
+	$ git submodule add git@github.com:shritekale/AFNetworkingXMLDictionary.git
+	$ git submodule update --init --recursive
+
+Open your Project, go to Add Files and add class files under AFNetworking/AFNetworking and AFNetworking/AFNetworkingXMLDictionary to your project.
 
 
 ## Sample Usage
