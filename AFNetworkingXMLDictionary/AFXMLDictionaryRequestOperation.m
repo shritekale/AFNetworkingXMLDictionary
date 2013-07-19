@@ -6,7 +6,7 @@
 //  AFNetworking iOS Example
 //
 //  Created by Shri on 19/07/13.
-//  Copyright (c) 2013 Gowalla. All rights reserved.
+//  Copyright (c) 2013 Shri. All rights reserved.
 //
 
 
