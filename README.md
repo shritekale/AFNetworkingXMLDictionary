@@ -19,8 +19,6 @@ Open your Project, go to Add Files and add class files under AFNetworking/AFNetw
 
 ## Sample Usage
 
-- Read the [AFNetworking "Getting Started" guide](https://github.com/AFNetworking/AFNetworking/wiki/Getting-Started-with-AFNetworking)
-
 - Add missing frameworks 
    * Security.framework
    * MobileCoreServices.framework
