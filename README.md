@@ -19,7 +19,7 @@ Open your Project, go to Add Files and add class files under AFNetworking/AFNetw
 
 ## Sample Usage
 
-- Read the[AFNetworking "Getting Started" guide](https://github.com/AFNetworking/AFNetworking/wiki/Getting-Started-with-AFNetworking)
+- Read the [AFNetworking "Getting Started" guide](https://github.com/AFNetworking/AFNetworking/wiki/Getting-Started-with-AFNetworking)
 
 - Add missing frameworks 
    * Security.framework
@@ -42,8 +42,8 @@ Open your Project, go to Add Files and add class files under AFNetworking/AFNetw
     [operation start];
 ```
 
- ## Credits
+## Credits
  
- AFNetworking by [Scott Raymond](https://github.com/sco/) and [Mattt Thompson](https://github.com/mattt/) in the development of [Gowalla for iPhone](http://en.wikipedia.org/wiki/Gowalla).
+- AFNetworking by [Scott Raymond](https://github.com/sco/) and [Mattt Thompson](https://github.com/mattt/) in the development of [Gowalla for iPhone](http://en.wikipedia.org/wiki/Gowalla).
  
- XMLDictionary by [Nick Lockwood](https://github.com/nicklockwood/XMLDictionary)
+- XMLDictionary by [Nick Lockwood](https://github.com/nicklockwood/XMLDictionary)
